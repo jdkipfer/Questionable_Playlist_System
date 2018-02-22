@@ -1,0 +1,12 @@
+Here's how the system works if done manually, the algorithm achieves the same result:
+
+There is a playlist (main list) with a set of albums. 
+The playlist for they day (day list) is created from the main list with this system:
+  1. Sort the list by play count. This divides the main list into "zones" where each zone is made up of all the songs from an album with that amount of plays.
+  2. 
+
+
+
+
+
+In a playlist, a song is removed when it reaches 7 plays, or get's a thumbs down from the user.
